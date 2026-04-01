@@ -6,7 +6,7 @@
 ---
 
 ## Profil Mahasiswa
-* **Nama:** Sherly Novia
+* **Nama:** Sherly Novia Indriani
 * **NIM:** 231001057
 * **Kelas:** Informatika — [C]
 
